@@ -1,0 +1,29 @@
+{
+  "name": "karma-ng-request2js-preprocessor",
+  "version": "0.0.1",
+  "description": "A Karma plugin.  Save AngularJS $http JSON requests to JavaScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takuu/karma-ng-request2js-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angularjs",
+    "angular",
+    "json2js",
+    "mock"
+  ],
+  "author": "Taku Uechi <taku30@gmail.com> (http://takuu.me/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/takuu/karma-ng-request2js-preprocessor/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0"
+  }
+}
