@@ -24,6 +24,5 @@
     "url": "https://github.com/takuu/karma-ng-request2js-preprocessor/issues"
   },
   "devDependencies": {
-    "chai": "~1.10.0"
   }
 }
