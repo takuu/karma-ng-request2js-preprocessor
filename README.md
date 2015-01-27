@@ -1,7 +1,7 @@
 karma-ng-request2js-preprocessor
 ================================
 
-A Karma plugin. Preprocess JSON files
+A Karma plugin. Preprocess JSON files for loose (black-box) unit testing.
 
 ## Installation
 
